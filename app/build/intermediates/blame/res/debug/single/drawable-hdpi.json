@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_calendar.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\icon_calendar.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_profile.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\icon_profile.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_on.9.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\button_on.9.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_settings.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\icon_settings.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shadow.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\shadow.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_background.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\menu_background.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\frame.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\frame.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button.9.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\button.9.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_bar_menu.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\title_bar_menu.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_home.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_bar_menu_on.png",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\drawable-hdpi\\title_bar_menu_on.png"
+    }
+]

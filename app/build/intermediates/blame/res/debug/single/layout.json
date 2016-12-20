@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "D:\\WorkStation\\Android Studio Projects\\ResideView\\app\\src\\main\\res\\layout\\calendar.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ResideMenuDemo</string>
+    <string name="method1">1. Swipe right/left to open menu</string>
+    <string name="method2">2. Click me to open menu</string>
+    <string name="des">This is an ignored view，you can’t use gesture to operate menu here.</string>
+
+    <string name="profile">Profile</string>
+    <string name="set">Settings</string>
+    <string name="calendar">Calendar</string>
+</resources>
